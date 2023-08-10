@@ -1,0 +1,328 @@
+{
+  "recommendation": [
+    {
+      "id": 1,
+      "name": "CRISPY KARAAGE",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "30000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4ece8c4a1fe8fee08e356706281f1d46-1660023045332",
+      "authorId": 2,
+      "categoryId": 1,
+      "userMongoId": "635a2ec9a0109ae335d18dd4"
+    },
+    {
+      "id": 2,
+      "name": "EBI FURAI",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "40000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/5925f46145f22f8795e92f9dc3fcf868-1660023667383",
+      "authorId": 1,
+      "categoryId": 1,
+      "userMongoId": "635a2ec9a0109ae335d18dd4"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Katsu",
+      "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/55e2725f61e7a8f3e69f7e05f0e4d3f6-1660023177661",
+      "authorId": 1,
+      "categoryId": 1,
+      "userMongoId": "635a2ec9a0109ae335d18dd4"
+    },
+    {
+      "id": 4,
+      "name": "EGG CHICKEN ROLL",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/5d3d928d422a2938d0ff8b130552fb82-1660023814703",
+      "authorId": 3,
+      "categoryId": 1,
+      "userMongoId": "635ab1f6043202469372c849"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "CRISPY KARAAGE",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "30000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4ece8c4a1fe8fee08e356706281f1d46-1660023045332",
+      "isRecommended": true,
+      "authorId": 1,
+      "categoryId": 1,
+      "userMongoId": "635ab1f6043202469372c849"
+    },
+    {
+      "id": 2,
+      "name": "EBI FURAI",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "40000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/5925f46145f22f8795e92f9dc3fcf868-1660023667383",
+      "isRecommended": true,
+      "authorId": 1,
+      "categoryId": 1,
+      "userMongoId": "635ab1f6043202469372c849"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Katsu",
+      "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/55e2725f61e7a8f3e69f7e05f0e4d3f6-1660023177661",
+      "isRecommended": true,
+      "authorId": 1,
+      "categoryId": 1,
+      "userMongoId": "635becf7dfece154002c556a"
+    },
+    {
+      "id": 4,
+      "name": "EGG CHICKEN ROLL",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/5d3d928d422a2938d0ff8b130552fb82-1660023814703",
+      "isRecommended": true,
+      "authorId": 1,
+      "categoryId": 1,
+      "userMongoId": "635becf7dfece154002c556a"
+    },
+    {
+      "id": 5,
+      "name": "Cold Ocha",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "10000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/de519de6a1ccc02b5af54ad3959e2013-1660032100269",
+      "isRecommended": true,
+      "authorId": 1,
+      "categoryId": 2,
+      "userMongoId": "635becf7dfece154002c556a"
+    },
+    {
+      "id": 6,
+      "name": "SHUMAY STEAM",
+      "description": "Aliquam sit amet diam in magna bibendum imperdiet.",
+      "price": "15000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/06bbef8204e625fe42f432dbe37707ae-1660030945827",
+      "isRecommended": false,
+      "authorId": 2,
+      "categoryId": 3,
+      "userMongoId": "635becf7dfece154002c556a"
+    },
+    {
+      "id": 7,
+      "name": "ICE AVOCADO COFFEE 500 ML",
+      "description": "Maecenas tristique, est et tempus semper, ",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/595d926d5fe263462868f887ea6a0511-1660031602435",
+      "isRecommended": false,
+      "authorId": 2,
+      "categoryId": 2,
+      "userMongoId": "635becf7dfece154002c556a"
+    },
+    {
+      "id": 8,
+      "name": "PUDDING COKLAT",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "20000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/85d3982312f46a43b9216119c0b76a80-1660030535279",
+      "isRecommended": false,
+      "authorId": 2,
+      "categoryId": 4,
+      "userMongoId": "635a2ec9a0109ae335d18dd4"
+    },
+    {
+      "id": 9,
+      "name": "SOFT TARO PUDDING",
+      "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. ",
+      "price": "20000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4a5646931f8a95eb1dc57aac76e460c2-1660030617971",
+      "isRecommended": false,
+      "authorId": 2,
+      "categoryId": 4,
+      "userMongoId": "635a2ec9a0109ae335d18dd4"
+    },
+    {
+      "id": 10,
+      "name": "SUKIYAKI",
+      "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
+      "price": "50000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4f6ea9ee17f7292abf49ee3938f06dec-1660024262853",
+      "isRecommended": false,
+      "authorId": 2,
+      "categoryId": 5,
+      "userMongoId": "635a2ec9a0109ae335d18dd4"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Main Menu"
+    },
+    {
+      "id": 2,
+      "name": "Beverage"
+    },
+    {
+      "id": 3,
+      "name": "Snack"
+    },
+    {
+      "id": 4,
+      "name": "Desert"
+    },
+    {
+      "id": 5,
+      "name": "Soup"
+    }
+  ],
+  "ingredients": [
+    {
+      "itemId": 1,
+      "name": "ayam"
+    },
+    {
+      "itemId": 1,
+      "name": "tepung"
+    },
+    {
+      "itemId": 1,
+      "name": "minyak"
+    },
+    {
+      "itemId": 2,
+      "name": "udang"
+    },
+    {
+      "itemId": 2,
+      "name": "tepung"
+    },
+    {
+      "itemId": 2,
+      "name": "minyak"
+    },
+    {
+      "itemId": 3,
+      "name": "ayam"
+    },
+    {
+      "itemId": 3,
+      "name": "tepung"
+    },
+    {
+      "itemId": 3,
+      "name": "minyak"
+    },
+    {
+      "itemId": 4,
+      "name": "ayam"
+    },
+    {
+      "itemId": 4,
+      "name": "minyak"
+    },
+    {
+      "itemId": 4,
+      "name": "telur"
+    },
+    {
+      "itemId": 4,
+      "name": "tepung"
+    },
+    {
+      "itemId": 5,
+      "name": "teh"
+    },
+    {
+      "itemId": 5,
+      "name": "air"
+    },
+    {
+      "itemId": 5,
+      "name": "es"
+    },
+    {
+      "itemId": 6,
+      "name": "ikan"
+    },
+    {
+      "itemId": 6,
+      "name": "tepung"
+    },
+    {
+      "itemId": 6,
+      "name": "kulit siomay"
+    },
+    {
+      "itemId": 6,
+      "name": "minyak"
+    },
+    {
+      "itemId": 7,
+      "name": "alpukat"
+    },
+    {
+      "itemId": 7,
+      "name": "kopi"
+    },
+    {
+      "itemId": 7,
+      "name": "air"
+    },
+    {
+      "itemId": 7,
+      "name": "es"
+    },
+    {
+      "itemId": 7,
+      "name": "gula"
+    },
+    {
+      "itemId": 8,
+      "name": "gula"
+    },
+    {
+      "itemId": 8,
+      "name": "pudding"
+    },
+    {
+      "itemId": 8,
+      "name": "cokelat"
+    },
+    {
+      "itemId": 8,
+      "name": "air"
+    },
+    {
+      "itemId": 9,
+      "name": "gula"
+    },
+    {
+      "itemId": 9,
+      "name": "pudding"
+    },
+    {
+      "itemId": 9,
+      "name": "taro"
+    },
+    {
+      "itemId": 9,
+      "name": "air"
+    },
+    {
+      "itemId": 10,
+      "name": "sapi"
+    },
+    {
+      "itemId": 10,
+      "name": "sayur"
+    },
+    {
+      "itemId": 10,
+      "name": "tahu"
+    },
+    {
+      "itemId": 10,
+      "name": "air"
+    }
+  ]
+}
